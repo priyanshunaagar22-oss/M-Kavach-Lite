@@ -10,8 +10,8 @@ A Tkinter-based Cybersecurity Scanner Dashboard designed to detect mobile malwar
 
 ## Requirements
 - Python 3.x
-- Optional: Android Debug Bridge (`adb`) installed on your system path[cite: 1].
-
+- Android Debug Bridge (`adb`) installed on your system path[cite: 1].
+- Establish a connection between your target device and your workstation using either USB Debugging or Wireless Debugging with the help of the ADB (Android Debug Bridge) tool.
 ## How to Run
 ```bash
 python mkavach_lite.py
